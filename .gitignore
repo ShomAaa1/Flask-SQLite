@@ -1,8 +1,9 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
+*.sqlite3
 
 # Виртуальное окружение
 .venv/
