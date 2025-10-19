@@ -7,7 +7,6 @@
     <list default="true" id="11ed2891-a88c-4634-b738-b0c4cd666392" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../../Module5/Lesson3/prices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module5/Lesson3/prices_2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module7/Lesson8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module7/Lesson8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
